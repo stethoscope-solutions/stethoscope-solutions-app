@@ -1,1 +1,1 @@
-# stethoscope-solutions-app
+# Stethoscope Solutions
